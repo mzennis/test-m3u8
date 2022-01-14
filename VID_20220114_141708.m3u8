@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.991967,
-https://raw.githubusercontent.com/mzennis/test-m3u8/main/VID_20220114_1417080.ts
+https://github.com/mzennis/test-m3u8/blob/main/VID_20220114_1417080.ts?raw=true
 #EXTINF:9.992633,
-https://raw.githubusercontent.com/mzennis/test-m3u8/main/VID_20220114_1417081.ts
+https://github.com/mzennis/test-m3u8/blob/main/VID_20220114_1417080.ts?raw=true
 #EXTINF:10.002667,
 https://raw.githubusercontent.com/mzennis/test-m3u8/main/VID_20220114_1417082.ts
 #EXTINF:9.982556,
